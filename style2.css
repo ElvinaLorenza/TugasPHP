@@ -1,0 +1,52 @@
+.container {
+    background-color: rgb(147, 181, 213);
+    width : 900px;
+    margin: 80px auto;
+    position: relative;
+}
+
+.header{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+    text-align: center;
+    background-color: rgb(122, 142, 149);
+}
+
+.main {
+    width: 430px;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    text-align: right;
+}
+
+.sidebar{
+    width: 380px;
+    float: right;
+    padding: 20px;
+    text-align: left;
+}
+
+.tombolOut{
+    text-align: center;
+}
+
+.judul1{
+    text-align: center;
+}
+
+.formtodo{
+    text-align: center;
+}
+
+.footer{
+    background-color: rgb(122, 142, 149);
+    padding: 15px;
+} 
+
+.footer{
+    color: #eaeaea;
+    text-align: center;
+    font-size: 12px;
+}
